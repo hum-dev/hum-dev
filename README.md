@@ -27,10 +27,10 @@
 <img align="left" src="https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white"/>
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 
-- 🔭 I’m currently working on ...MentorPro a mentorship platform that will bring experts from all over to help and guide peers and anyone getting started in Tech
+
 
 <!--
-
+- 🔭 I’m currently working on ...MentorPro a mentorship platform that will bring experts from all over to help and guide peers and anyone getting started in Tech
 
 Here are some ideas to get you started:
 
