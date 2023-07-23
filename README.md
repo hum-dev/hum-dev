@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 <img  src="https://github-readme-stats.vercel.app/api?username=hum-dev&show_icons=true&theme=radical"/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hum-dev&theme=dark&hide_border=true)<br/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 
 # 💻 Tech Stack:
